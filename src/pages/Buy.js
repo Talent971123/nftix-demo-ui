@@ -79,6 +79,7 @@ function Buy({ connectedContract }) {
       <Heading mb={4}>DevDAO Conference 2022</Heading>
       <Text fontSize="xl" mb={4}>
         Connect your wallet to mint your NFT. It'll be your ticket to get in!
+        You can buy the ticket.
       </Text>
       <Flex
         flexDirection="column"
