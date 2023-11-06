@@ -68,7 +68,7 @@ function Wallet({ address }) {
         {!loadingTicket && ticket && createTicketDisplay()}
         {!loadingTicket && !ticket && (
           <Text fontSize="xl" mb={2} width="100%">
-            You don't own any tickets 😢
+            You don't own any tickets 😢.
           </Text>
         )}
       </Flex>
