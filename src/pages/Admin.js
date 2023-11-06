@@ -75,7 +75,7 @@ function Admin({ isOwner, connectedContract }) {
     <>
       <Heading mb={4}>Admin panel</Heading>
       <Text fontSize="xl" mb={8}>
-        Enable and disable sales on the smart contract.
+        Enable and disable sales on the smart contract in here.
       </Text>
       <Flex width="100%" justifyContent="center">
         <Button
